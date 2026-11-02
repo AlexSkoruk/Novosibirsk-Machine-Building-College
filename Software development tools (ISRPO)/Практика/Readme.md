@@ -7,4 +7,4 @@ pip install protobuf msgpack cbor2 pyyaml
 
 если ошибка в pip - python -m pip install имя_пакета
 
-если нет pip, надо его скачать python -m ensurepip --default-pip
+если нет pip, надо его установить python -m ensurepip --default-pip
