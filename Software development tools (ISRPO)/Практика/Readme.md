@@ -2,3 +2,5 @@
 
 
 Скачивание https://github.com/protocolbuffers/protobuf/releases/download/v36.2/protoc-36.2-win64.zip
+
+pip install protobuf msgpack cbor2 pyyaml
